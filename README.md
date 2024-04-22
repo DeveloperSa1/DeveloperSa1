@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @DeveloperSa1
-- 👀 I’m interested in Mobile Apps & Front-End in general also I love to use Dart (Flutter);
-- 🌱 I’m currently learning Kotlin
-- 💞️ I'm looking to collaborate on a Flutter Open-Source project
-- 📫  Email me "f.fsk@hotmail.com"
-
+to the only one I follow this message for you : Fu*k 0ff 
 <!---
 DeveloperSa1/DeveloperSa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
